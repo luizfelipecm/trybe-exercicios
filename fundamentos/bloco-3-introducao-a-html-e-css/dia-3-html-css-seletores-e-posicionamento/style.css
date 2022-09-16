@@ -1,0 +1,45 @@
+ol li {
+    background-color: yellow;
+}
+.par{
+    color:green;
+}
+.impar{
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.header{
+    color:red;
+}
+h1{
+    border:1px solid;
+    font-size: 40px;
+}
+li{
+    font-size:20px;
+
+}
+ul.teste li:nth-child(n+1):nth-child(-n+3){
+    color:blue;
+}
+ul.teste li:nth-child(n+2):nth-child(-n+3){
+    background-color: pink;
+}
+a{
+    text-decoration: none;
+}
+ul.links a#stack:hover{
+    color:orange;
+}
+ul.links a#w3schools:hover{
+    color:green;
+}
+ul.links a#mdn:hover{
+    color:black;
+}
+ul.links a#devdocs:hover{
+    color:yellow;
+}
+ul.links a#trybe:hover{
+    color:green;
+}
