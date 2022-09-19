@@ -1,0 +1,81 @@
+body{
+    background-color: #fefae0;
+}
+
+.cabecalho{
+    text-align: center;
+    background-color: #283618;
+    height: 80px;
+    color:white;
+}
+
+#titulo{
+    padding-top: 20px;
+}
+.links{
+    background-color: #283618;
+    height: 80px;
+}
+nav.links ul{
+    list-style: none;
+    text-align: center;
+    padding-top: 27px;
+}
+a.menu{
+    display: inline;
+    text-decoration: none;
+    margin: 110px;
+    font-size: larger;
+    color:white
+}
+.fatos{
+    background-color: #283618;
+    text-align: center;
+    color: white;
+}
+.tabela{
+    display: inline-block;
+}
+.rodape{
+    background-color: #283618;
+    height: 50px;
+    text-align: center;
+    color: white;
+}
+.rodape p{
+    padding-top:16px;
+}
+.curiosidades{
+    padding: 20px;
+}
+.azul{
+    color:blue;
+}
+.verde{
+    color: lightgreen;
+}
+.vermelha{
+    color:red;
+}
+.amarelo{
+    color: yellow;
+}
+aside{
+    background-color: #283618;
+    text-align: center;
+
+}
+
+
+.youtube{
+    width: 100px;
+}
+.foto-stoma{
+    width: 50%;
+    padding-bottom: 50px;
+}
+
+#referencia a{
+    color:white;
+    display: block;
+}
